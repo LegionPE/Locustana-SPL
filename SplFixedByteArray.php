@@ -42,7 +42,7 @@ class SplFixedByteArray extends SplFixedArray{
 
 	/**
 	 * @param string $str
-	 * @param bool   $convert
+	 * @param bool $convert
 	 *
 	 * @return SplFixedByteArray
 	 */
@@ -65,9 +65,9 @@ class SplFixedByteArray extends SplFixedArray{
 
 	/**
 	 * @param string $str
-	 * @param int    $size
-	 * @param int    $start
-	 * @param bool   $convert
+	 * @param int $size
+	 * @param int $start
+	 * @param bool $convert
 	 *
 	 * @return SplFixedByteArray
 	 */
